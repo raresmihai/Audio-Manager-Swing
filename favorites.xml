@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<favorites>
+    <song>
+        <album></album>
+        <artist></artist>
+        <duration>225529.296875</duration>
+        <fileName>/home/rares/Music/Bob-Marley-A-lalala-long.mp3</fileName>
+        <genre></genre>
+        <songName>Bob Marley - A lalala long</songName>
+    </song>
+    <song>
+        <album>The Best of Bobby McFerrin</album>
+        <artist>Bobby McFerrin</artist>
+        <duration>288882.40625</duration>
+        <fileName>/home/rares/Music/Bobby+McFerrin+-+Don't+Worry,+Be+Happy(music.naij.com).mp3</fileName>
+        <genre>Other</genre>
+        <songName>Don't Worry, Be Happy</songName>
+    </song>
+</favorites>
